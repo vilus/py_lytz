@@ -12,7 +12,7 @@ class TraceBlock:
 	def __exit__(self, exc_type, exc_val, exc_tb):
 		if exc_type:
 			print 'raised exc %s' % exc_type
-			return False
+			return True
 		print 'exited normally'
 
 
