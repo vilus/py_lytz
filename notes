@@ -1,3 +1,4 @@
 [profile] example in book Lytz on 988 page
 [jenkins] for trigger jenkins job
 [unicode] if run python with option -U then all string will be Unicode
+[builtin] divmode(x,y) -> (x // y, x % y)
